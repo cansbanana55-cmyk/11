@@ -15,6 +15,11 @@ gh pr list
 git remote -v
 ```
 
+## Requirements
+
+- Node.js ^22.19.0 或 >=24
+- pnpm 11.x
+
 ## Install
 
 ```powershell
