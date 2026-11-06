@@ -14,3 +14,10 @@ gh repo view cansbanana55-cmyk/11 --web
 gh pr list
 git remote -v
 ```
+
+## Install
+
+```powershell
+git clone https://github.com/cansbanana55-cmyk/11.git
+pnpm install
+```
